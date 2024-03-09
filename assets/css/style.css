@@ -1,0 +1,28 @@
+.basket-icon{
+    margin-right: 30px;
+  
+}
+.basket-icon .fa-cart-shopping{
+   font-size: 25px;
+   position: relative;
+   color: red;
+}
+.product-count{
+position: absolute;
+top: 0;
+
+color: red;
+font-size: 18px;
+}
+.fa-money-bill{
+ font-size: 25px;
+ margin-left: 45px;
+ color: green;
+}
+.cost{
+    position: absolute;
+    top: 0;
+    
+    color: green;
+    font-size: 18px; 
+}
